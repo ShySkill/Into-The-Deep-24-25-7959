@@ -1,6 +1,8 @@
 # Final code for the into the deep season!
 
-Contributors:
+## Contributors:
 ShySkill
+
 JShapiro
+
 JKamen
